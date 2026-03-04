@@ -1,4 +1,4 @@
-# 原版 + seed，用于 MFM 版本训练（模型结构在 network/pvt_cls.py 中改）
+# 原版 + seed，用于 MFM 版本训练（模型结构在 network/pvt_cls.py 中改）#第二版
 import os
 import time
 import torch
